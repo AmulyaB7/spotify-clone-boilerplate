@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "DM sans", Arial, sans-serif;
+}
+
+*{
+    background: #000;
+}
+
+nav{
+    background: #000;
+}
+
+.box{
+    text-decoration: none;
+}
+
+.hh{
+    border: 10px;
+    border-radius: 10px;
+    padding: 23px;
+    width: 15px;
+    height: 15px;
+    justify-content: space-between;
+    img{
+        width: 110px;
+    }
+}
+
+.nav-items{
+    text-decoration: none;
+    font-family: "DM sans";
+    font-size: bold;
+    text-align: center;
+    img{
+        width: 20px;
+    }
+}
+
+.nav-hs{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section{
+    img{
+        width: 150px;
+    }
+}
